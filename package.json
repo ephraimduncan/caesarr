@@ -1,0 +1,16 @@
+{
+  "name": "roman-js",
+  "version": "1.0.0",
+  "description": "A mini library to convert whole numbers to Roman numerals",
+  "main": "index.js",
+  "keywords": [
+    "roman-numbers",
+    "roman",
+    "caesar",
+    "math",
+    "javascript",
+    "random"
+  ],
+  "author": "Ephraim Atta-Duncan",
+  "license": "MIT"
+}
