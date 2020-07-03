@@ -1,5 +1,5 @@
 {
-  "name": "roman-js",
+  "name": "caesarr",
   "version": "1.0.0",
   "description": "A mini library to convert whole numbers to Roman numerals",
   "main": "index.js",

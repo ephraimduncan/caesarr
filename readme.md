@@ -1,20 +1,20 @@
-[![NPM](https://nodei.co/npm/roman-js.png)](https://nodei.co/npm/roman-js/)
+[![NPM](https://nodei.co/npm/caesarr.png)](https://nodei.co/npm/caesarr/)
 
 # Roman Numbers
 
-![npm](https://img.shields.io/npm/v/roman-js) ![NPM](https://img.shields.io/npm/l/roman-js)
+![npm](https://img.shields.io/npm/v/caesarr) ![NPM](https://img.shields.io/npm/l/caesarr)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dephraiim?style=social)
 
-roman-js is a mini library to convert whole numbers to Roman numerals
+caesarr is a mini library to convert whole numbers to Roman numerals
 
 #### Installation
 
-`npm install roman-js`
+`npm install caesarr`
 
 #### Usage
 
 ```js
-const roman = require('./roman-js');
+const roman = require('./caesarr');
 
 roman(456); // CDLVI
 ```
