@@ -1,9 +1,9 @@
 {
   "name": "caesarr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A mini library to convert whole numbers to Roman numerals",
   "main": "index.js",
-  "script": {
+  "scripts": {
     "push": "git push && npm publish"
   },
   "keywords": [
