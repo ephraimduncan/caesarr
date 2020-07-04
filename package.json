@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A mini library to convert whole numbers to Roman numerals",
   "main": "index.js",
+  "script": {
+    "push": "git push && npm publish"
+  },
   "keywords": [
     "roman-numbers",
     "roman",
