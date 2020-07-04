@@ -14,7 +14,7 @@ caesarr is a mini library to convert whole numbers to Roman numerals
 #### Usage
 
 ```js
-const roman = require('./caesarr');
+const roman = require('caesarr');
 
 roman(456); // CDLVI
 ```
